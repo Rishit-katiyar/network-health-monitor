@@ -6,14 +6,16 @@ Welcome to the Network Health Monitor repository, a comprehensive tool designed 
 
 In this section, we will guide you through the process of setting up and running the Network Health Monitor application on your system.
 
-<img width="399" alt="output file 001001" src="https://github.com/Rishit-katiyar/network-health-monitor/assets/167756997/82966967-2c4e-410f-b8dc-b79c927cf548">
-
 ### 🛠️ Prerequisites for Installation
 
 Before you can start using Network Health Monitor, ensure that your system meets the following prerequisites:
 
 - **Python Installation**: Network Health Monitor requires Python 3.6 or higher. If you haven't installed Python yet, you can download and install it from the [official Python website](https://www.python.org/).
 - **Git Installation**: Git is necessary for cloning the repository. If Git is not installed on your system, you can download and install it from the [Git website](https://git-scm.com/).
+
+<div align="center">
+  <img width="499" alt="output file 001001" src="https://github.com/Rishit-katiyar/network-health-monitor/assets/167756997/82966967-2c4e-410f-b8dc-b79c927cf548">
+</div>
 
 ### 📥 Installation Process
 
